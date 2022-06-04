@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://c.tenor.com/DBqjevyA2o4AAAAC/bongo-cat-codes.gif" alt="Bongo Cat Codes"/>
+<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" alt="Bongo Cat Codes"/>
 </div>
 <h1 align="center">Hi there 👋, I'm <a href="https://www.facebook.com/hieuhm.kuro/" target="_blank">Kuro</a></h1>
 <h3 align="center">A software developer from Vietnam</h3>
