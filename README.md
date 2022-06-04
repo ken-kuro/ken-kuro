@@ -34,7 +34,6 @@
     - I'm a big fan of ***Jay Chou, Justin Bieber and Taylor Swift***
 
 ---
-
 ## :computer: My tech stack:
 
 ### Languages
@@ -131,8 +130,12 @@
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ---
+## :hourglass: Recent activities:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-## :fire: My Stats:
+---
+## :fire: My stats:
 ![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 <!--START_SECTION:waka-->
