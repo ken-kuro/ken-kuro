@@ -1,10 +1,9 @@
-<div class="center">
-<div id="header">
+<div id="header" align="center">
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAC/bongo-cat-codes.gif" alt="Bongo Cat Codes"/>
 </div>
-<h1>Hi there 👋, I'm <a href="https://www.facebook.com/hieuhm.kuro/" target="_blank">Kuro</a></h1>
-<h3>A software developer from Vietnam</h3>
-<div id="badges">
+<h1 align="center">Hi there 👋, I'm <a href="https://www.facebook.com/hieuhm.kuro/" target="_blank">Kuro</a></h1>
+<h3 align="center">A software developer from Vietnam</h3>
+<div id="badges" align="center">
 <a href="https://github.com/ken-kuro">
 <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
 </a>
@@ -15,33 +14,32 @@
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
+<br>
+<div align="center">
 <img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img>
 </div>
 
-<style>
-.center {
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-
 ---
 ## :man_technologist: About me:
+
 - :adult: My full name is ***Ha Minh Hieu***
-- :birthday: I was born on ***October 26,  2000*** so yea, I'm a :scorpius: :smiling_imp:
-- :mortar_board: I'm ***a final year student*** at [Academy of Cryptography Techniques](http://actvn.edu.vn/). My major is ***Information Technology (IT)***
+- :birthday: I was born on ***October 26, 2000*** so yea, I'm a :scorpius: :smiling_imp:
+- :mortar_board: I'm ***a final year student*** at [Academy of Cryptography Techniques](http://actvn.edu.vn/). My major
+  is ***Information Technology (IT)***
 - :briefcase: I'm currently working at [BrontoByte](https://brontobyte.vn/)
 - :seedling: I'm currently learning ***Android App Development*** with [Kotlin](https://kotlinlang.org/)
 - :zap:
-  - I like ***origami, gunpla and DIY Craft***
-  - I love ***anime***, some of my favs: ***Naruto***, ***HxH***, ***JJK***; and ***sci-fi movies*** likes ***Inception, Lucy, Interstellar***
-  - I'm a big fan of ***Jay Chou, Justin Bieber and Taylor Swift***
+    - I like ***origami, gunpla and DIY Craft***
+    - I love ***anime***, some of my favs: ***Naruto***, ***HxH***, ***JJK***; and ***sci-fi movies*** likes ***
+      Inception, Lucy, Interstellar***
+    - I'm a big fan of ***Jay Chou, Justin Bieber and Taylor Swift***
 
 ---
+
 ## :computer: My tech stack:
+
 ### Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,7 +55,9 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### Frameworks, Platforms and Libraries
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -83,7 +83,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+
 ### Databases
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,15 +93,21 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Hosting/SaaS
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ### Servers
+
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 ### IDEs/Editors
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -111,7 +119,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+
 ### Operating System
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
@@ -122,7 +132,9 @@
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ---
+
 ## :fire: My Stats:
+
 [![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)]
 
 <!--START_SECTION:waka-->
