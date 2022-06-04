@@ -133,8 +133,7 @@
 ---
 
 ## :fire: My Stats:
-
-[![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)]
+![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -191,6 +190,8 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
  Last Updated on 04/06/2022 19:10:44 UTC
 <!--END_SECTION:waka-->
+
+![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
 
 <!--
 **ken-kuro/ken-kuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
