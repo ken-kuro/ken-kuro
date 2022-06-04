@@ -137,6 +137,59 @@
 [![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)]
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 1 Contributions in the Year 2022
+ > 
+> 📦 29.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 17 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               13 hrs 32 mins      ██████████████████░░░░░░░   73.87% 
+Ruby                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+Kotlin                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+.env file                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
+
+🔥 Editors: 
+WebStorm                 14 hrs 3 mins       ███████████████████░░░░░░   76.69% 
+RubyMine                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Android Studio           1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
+VS Code                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.48%
+
+💻 Operating System: 
+Linux                    18 hrs 20 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████░░░░░░░░░░░░░░░░░   31.91% 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
+
+
+ Last Updated on 04/06/2022 19:10:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
