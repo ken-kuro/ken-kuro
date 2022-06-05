@@ -28,7 +28,7 @@
   is ***Information Technology (IT)***
 - :briefcase: I'm currently working at [BrontoByte](https://brontobyte.vn/)
 - :seedling: I'm currently learning ***Android App Development*** with [Kotlin](https://kotlinlang.org/)
-- :zap:
+- :zap: Fun fact
     - I like ***origami, gunpla and DIY Craft***
     - I love ***anime***, some of my favs: ***Naruto***, ***HxH***, ***JJK***; and ***sci-fi movies*** likes ***Inception, Lucy, Interstellar***
     - I'm a big fan of ***Jay Chou, Justin Bieber and Taylor Swift***
