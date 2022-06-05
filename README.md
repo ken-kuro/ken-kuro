@@ -142,15 +142,15 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 10 Contributions in the Year 2022
  > 
-> 📦 29.5 kB Used in GitHub's Storage 
+> 📦 29.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -192,7 +192,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 19:10:44 UTC
+ Last Updated on 05/06/2022 18:46:56 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
