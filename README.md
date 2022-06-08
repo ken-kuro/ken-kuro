@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ken-kuro/ken-kuro/pull/1) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
+1. 🎉 Merged PR [#2](https://github.com/ken-kuro/ken-kuro/pull/2) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
 <!--END_SECTION:activity-->
 
 ---
