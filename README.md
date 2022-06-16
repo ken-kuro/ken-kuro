@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Haven-Code/iKMA-frontend/pull/2) in [Haven-Code/iKMA-frontend](https://github.com/Haven-Code/iKMA-frontend)
+1. 🎉 Merged PR [#1](https://github.com/ken-kuro/iKMA-frontend/pull/1) in [ken-kuro/iKMA-frontend](https://github.com/ken-kuro/iKMA-frontend)
 <!--END_SECTION:activity-->
 
 ---
