@@ -144,7 +144,7 @@
 
 > 🏆 20 Contributions in the Year 2022
  > 
-> 📦 31.5 kB Used in GitHub's Storage 
+> 📦 31.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -191,7 +191,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2022 18:46:42 UTC
+ Last Updated on 20/06/2022 18:51:16 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
