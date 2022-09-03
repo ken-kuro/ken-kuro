@@ -158,16 +158,13 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 28 mins       ███████████████████████░░   92.57% 
-GraphQL                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 5 hrs 54 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -188,7 +185,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:53:06 UTC
+ Last Updated on 03/09/2022 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
