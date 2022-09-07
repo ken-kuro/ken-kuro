@@ -142,7 +142,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2022
+> 🏆 29 Contributions in the Year 2022
  > 
 > 📦 61.9 kB Used in GitHub's Storage 
  > 
@@ -158,13 +158,17 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 22 mins       ██████████████████████░░░   91.23% 
+.env file                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 5 hrs 54 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -185,7 +189,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:52:50 UTC
+ Last Updated on 07/09/2022 18:54:50 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
