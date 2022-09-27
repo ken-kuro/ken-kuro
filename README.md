@@ -152,6 +152,27 @@
  > 
 > 🔑 24 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               16 hrs 1 min        ████████████████████░░░░░   81.94% 
+YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+.env file                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+
+🔥 Editors: 
+WebStorm                 18 hrs 10 mins      ███████████████████████░░   92.89% 
+VS Code                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.11%
+
+💻 Operating System: 
+Linux                    19 hrs 33 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -169,7 +190,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:58:26 UTC
+ Last Updated on 27/09/2022 19:02:55 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
