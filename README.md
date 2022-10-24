@@ -144,7 +144,7 @@
 
 > 🏆 303 Contributions in the Year 2022
  > 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 67.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,7 +190,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2022 18:57:25 UTC
+ Last Updated on 24/10/2022 19:09:30 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
