@@ -158,18 +158,13 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     12 mins             ██████████░░░░░░░░░░░░░░░   39.54% 
-JSON                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.66% 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-GraphQL                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.66%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 28 mins             █████████████████████░░░░   86.59% 
-VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -190,7 +185,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2023 18:45:07 UTC
+ Last Updated on 27/01/2023 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
