@@ -190,7 +190,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2023 18:41:45 UTC
+ Last Updated on 06/02/2023 18:43:46 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
