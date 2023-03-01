@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ken-kuro/ken-kuro/pull/3) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
+1. 🗣 Commented on [#4294](https://github.com/transloadit/uppy/issues/4294) in [transloadit/uppy](https://github.com/transloadit/uppy)
 <!--END_SECTION:activity-->
 
 ---
