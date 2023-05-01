@@ -142,7 +142,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 69.8 kB Used in GitHub's Storage 
+> 📦 70.0 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2023
  > 
@@ -171,18 +171,13 @@ Sunday                   169 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        ███████████░░░░░░░░░░░░░░   42.95 % 
-YAML                     1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Lua                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Docker                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 4 hrs 16 mins       ████████████████████████░   96.71 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -202,7 +197,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2023 18:40:28 UTC
+ Last Updated on 01/05/2023 18:40:06 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
