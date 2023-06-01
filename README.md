@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ken-kuro/ken-kuro/pull/5) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
+1. ❗ Opened issue [#1](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/issues/1) in [Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System)
 <!--END_SECTION:activity-->
 
 ---
