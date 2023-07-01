@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/issues/1) in [Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System)
+1. 🗣 Commented on [#38804](https://github.com/bitnami/containers/issues/38804) in [bitnami/containers](https://github.com/bitnami/containers)
 <!--END_SECTION:activity-->
 
 ---
