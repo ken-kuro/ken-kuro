@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#194](https://github.com/pusher/pusher-http-node/pull/194) in [pusher/pusher-http-node](https://github.com/pusher/pusher-http-node)
+1. 🗣 Commented on [#1021](https://github.com/nestjs/graphql/issues/1021#issuecomment-1687724072) in [nestjs/graphql](https://github.com/nestjs/graphql)
 <!--END_SECTION:activity-->
 
 ---
