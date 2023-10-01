@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1021](https://github.com/nestjs/graphql/issues/1021#issuecomment-1687724072) in [nestjs/graphql](https://github.com/nestjs/graphql)
+1. 🎉 Merged PR [#6](https://github.com/ken-kuro/ken-kuro/pull/6) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
 <!--END_SECTION:activity-->
 
 ---
