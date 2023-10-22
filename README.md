@@ -142,13 +142,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 100.8 kB Used in GitHub's Storage 
+> 📦 94.6 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2023
+> 🏆 49 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 34 Private Repositories 
  > 
@@ -171,13 +171,14 @@ Sunday                   193 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+HTML                     3 mins              ████████████████████░░░░░   79.68 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -197,7 +198,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2023 18:40:47 UTC
+ Last Updated on 22/10/2023 18:41:03 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
