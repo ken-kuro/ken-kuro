@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ken-kuro/ken-kuro/pull/6) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
+1. 🗣 Commented on [#46](https://github.com/n4ze3m/dialoqbase/issues/46#issuecomment-1780343332) in [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase)
 <!--END_SECTION:activity-->
 
 ---
