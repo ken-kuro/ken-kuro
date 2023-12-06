@@ -142,48 +142,16 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 118.3 kB Used in GitHub's Storage 
+> 📦 118.6 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2023
+> 🏆 64 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Friday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Saturday                 192 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               7 hrs 19 mins       ████████████████████████░   96.34 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🔥 Editors: 
-WebStorm                 7 hrs 36 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    7 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -201,7 +169,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:41:55 UTC
+ Last Updated on 06/12/2023 18:42:10 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
