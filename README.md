@@ -142,7 +142,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 122.0 kB Used in GitHub's Storage 
+> 📦 118.0 kB Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2023
  > 
@@ -200,7 +200,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:40:52 UTC
+ Last Updated on 23/12/2023 18:40:42 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
