@@ -144,8 +144,6 @@
 
 > 📦 119.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -201,7 +199,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2024 18:42:34 UTC
+ Last Updated on 09/01/2024 18:40:42 UTC
 <!--END_SECTION:waka-->
 
 ![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
