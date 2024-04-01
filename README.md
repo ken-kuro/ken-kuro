@@ -132,7 +132,7 @@
 ---
 ## :hourglass: Recent activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ken-kuro/ken-kuro/pull/10) in [ken-kuro/ken-kuro](https://github.com/ken-kuro/ken-kuro)
+1. 🗣 Commented on [#5884](https://github.com/Kong/insomnia/issues/5884#issuecomment-2024377499) in [Kong/insomnia](https://github.com/Kong/insomnia)
 <!--END_SECTION:activity-->
 
 ---
