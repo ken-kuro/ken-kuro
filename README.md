@@ -138,65 +138,65 @@
   Stats is generated using the wonderful https://github.com/anuraghazra/github-readme-stats and https://github.com/DenverCoder1/github-readme-streak-stats
   <!-- TODO: Consider hosting this -->
 </details>
-<!-- Github Stats -->
-<a href="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte">
-    <picture>
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-    </picture>
-</a>
 
-<!-- Wakatime Stats -->
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte">
+<p align="center">
+  <!-- Github Stats -->
+  <a href="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=300&theme=catppuccin_latte">
     <picture>
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_mocha"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent" />
+      <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=300&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=300&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=300" />
     </picture>
-</a>
-
-<!-- Github Top Language -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte">
+  </a>
+  <!-- Wakatime Stats -->
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&langs_count=10&display_format=percent&theme=catppuccin_latte">
     <picture>
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_mocha"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut" />
+      <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&langs_count=10&display_format=percent&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&langs_count=10&display_format=percent&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent" />
     </picture>
-</a>
-
-<!-- Github Streak-->
-<a href="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte">
+  </a>
+  <!-- Github Streak-->
+  <a href="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte">
     <picture>
-        <source
-        srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-mocha"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=200 align="center" src="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat" />
+      <source
+      srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-mocha"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat" />
     </picture>
-</a>
+  </a>
+  <!-- Github Top Language -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&card_width=320&theme=catppuccin_latte">
+    <picture>
+      <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&card_width=320&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&card_width=320&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&card_width=320" />
+    </picture>
+  </a>
+</p>
 
 <!--
 **ken-kuro/ken-kuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
