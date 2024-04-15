@@ -125,12 +125,6 @@
 
 ---
 
-## ⏳ Recent activities:
-
-<!-- TODO: Add action for this -->
-
----
-
 ## 🔥 My stats:
 
 <!--
