@@ -131,6 +131,11 @@
 ---
 
 ## 🔥 My stats:
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ken-kuro&theme=transparent)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ken-kuro&theme=transparent)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ken-kuro&theme=transparent)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ken-kuro&theme=transparent)
+![Commits (UTC+7.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ken-kuro&theme=transparent&utcOffset=7)
 
 <!--
 **ken-kuro/ken-kuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
