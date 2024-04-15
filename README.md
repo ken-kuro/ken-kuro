@@ -1,56 +1,49 @@
-<div id="header" align="center">
-<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" alt="Bongo Cat Codes"/>
-</div>
-<h1 align="center">Hi there 👋, I'm <a href="https://www.facebook.com/hieuhm.kuro/" target="_blank">Kuro</a></h1>
-<h3 align="center">A software developer from Vietnam</h3>
-<div id="badges" align="center">
-<a href="https://github.com/ken-kuro">
-<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-</a>
-<a href="https://gitlab.com/ken-kuro">
-<img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
-</a>
-<a href="www.linkedin.com/in/hieuhm-kuro">
-<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
-<br>
-<div align="center">
-<img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img>
-</div>
+<!-- TODO: Convert this to svg -->
+# Hi there 👋, I'm [Kendrick](https://www.facebook.com/kuro.oct26/), aka [ken-kuro](https://github.com/ken-kuro)
+<!-- TODO: Consider hosting this -->
+|You are|<img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img>|
+| --- | :---: |
 
+<!-- TODO: Add snake action for this -->
 ---
-## :man_technologist: About me:
+## 👨‍💻 About me:
 
-- :adult: My full name is ***Ha Minh Hieu***
-- :birthday: I was born on ***October 26, 2000*** so yea, I'm a :scorpius: :smiling_imp:
-- :mortar_board: I'm ***a final year student*** at [Academy of Cryptography Techniques](http://actvn.edu.vn/). My major
-  is ***Information Technology (IT)***
-- :briefcase: I'm currently working at [BrontoByte](https://brontobyte.vn/)
-- :seedling: I'm currently learning ***Android App Development*** with [Kotlin](https://kotlinlang.org/)
-- :zap: Fun fact
-    - I like ***origami, gunpla and DIY Craft***
-    - I love ***anime***, some of my favs: ***Naruto***, ***HxH***, ***JJK***; and ***sci-fi movies*** likes ***Inception, Lucy, Interstellar***
-    - I'm a big fan of ***Jay Chou, Justin Bieber and Taylor Swift***
-
+- 🗣️ My full name is ***Ha Minh Hieu***, but you can call me ~~tonight~~ ***Kendrick*** 🐧
+- 🎂 I was born on ***October 26, 2000*** so yea, I'm a ♏ with a mischievous side 😈
+- 🎓 I've proudly earned my ***Bachelor of Science (BSc)*** in ***Information Technology (IT)*** at [Academy of Cryptography Techniques](http://actvn.edu.vn/) as [valedictorian](https://vnexpress.net/tro-thanh-thu-khoa-ky-thuat-mat-ma-sau-mot-nam-song-mong-lung-4665201.html)
+- 💼 I'm currently working at an EdTech startup called [Vuihoc](https://vuihoc.vn/), and get this, its original name was Hung Vuong (meaning Hung King). Turns out the CEO and COO are from my hometown, what a coincidence 😮
+- 🌱 My interests lie at the intersection of ***Software Engineering***, ***Deep Learning*** and ***Cloud Computing***. I'm also a passionate Linux enthusiast (***I use Arch btw, fyi*** 😏), and that's the reason why my journey of contributing to the open-source community (OSS) began ~~because it is buggy and annoying me due to my OCD~~
+  
+- 🤡 Some fun fact:
+    - When it comes to gaming, I'm a diehard ***League of Legends*** player and a proud ***Yasuo main***. You know what his main motto is: ***I alone decide my fate***, my teammates are either in awe of my flashy outplays or constantly face-palming as I dive into 1v5 situations. But hey, that's just how use ***Yasuo mains*** roll ⚔️
+    - ***Origami***, ***gunpla*** and ***DIY Craft*** are my go-to creative outlets ✴️. My very first gunpla was the stunning [***MG Astray Red Frame Kai***](https://gundamshop.vn/product/mg-gundam-astray-red-frame-kai/), and my favorite origami is majestic [***Bahamut***](https://www.folders.jp/g/1997/9705.html) by the renowed ***Satoshi Kamiya***
+    - I'm some kind of a ***weeboo*** myself 🥴, with shows like ***Evangelion***, ***HxH*** and ***JJK*** among my favorites. I also have a fondness for ***sci-fi movies***, such as ***Dune***, ***Interstellar*** and ***Limitless***
+    - Music is a passion of mine, and my ***eclectic tastes*** span across genres and languages. I'm always on the hunt for new tunes that ***resonate well*** with me, regardless of their popularity. In fact, I have a bit of habit on ***turning my back*** on song that ***become too "mainstream"***. I like to keep some of my musical discoveries to ***myself*** 🎶. 
+      <details>
+        <summary>🎁 for you</summary>
+        
+        I know, I know, it's a bit selfish. So just for this time, take a drag of [this](https://youtu.be/dQw4w9WgXcQ?feature=shared) [🚬](https://youtu.be/y7I8Moj2Ucc?feature=shared). I do not smoke in real life, but I sure do love throwing some musical "smoke" grenades to obscure your vision 😉 ~~Sometimes, they might even be my own "flashes" (you know, as a ***Yoru*** main and all)~~ 
+      </details>
 ---
-## :computer: My tech stack:
+## 🥞 My "pancakes" stack:
+<details>
+  <summary>Credit</summary>
+  All badges generated using the amazing https://github.com/badges/shields
+  <!-- TODO: Consider hosting this -->
+</details>
 
 ### Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -59,152 +52,123 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
 
 ### Databases
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Hosting/SaaS
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Servers
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### IDEs/Editors
+### IDEs/Editors and Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white&color=mediumturquoise)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=rebeccapurple)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=crimson)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-### Operating System
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=blue)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&color=darkblue)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white&color=limegreen)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## :hourglass: Recent activities:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5884](https://github.com/Kong/insomnia/issues/5884#issuecomment-2024377499) in [Kong/insomnia](https://github.com/Kong/insomnia)
-<!--END_SECTION:activity-->
+## ⏳ Recent activities:
+<!-- TODO: Add action for this -->
 
 ---
-## :fire: My stats:
-![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-kuro&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+## 🔥 My stats:
+<details>
+  <summary>Credit</summary>
+  Stats is generated using the wonderful https://github.com/anuraghazra/github-readme-stats and https://github.com/DenverCoder1/github-readme-streak-stats
+  <!-- TODO: Consider hosting this -->
+</details>
+<!-- Github Stats -->
+<a href="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</picture>
+</a>
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+<!-- Wakatime Stats -->
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent" />
+</picture>
+</a>
 
-> 📦 119.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 35 Private Repositories 
- > 
-📅 **I'm Most Productive on Wednesday** 
+<!-- Github Top Language -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut" />
+</picture>
+</a>
 
-```text
-Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                210 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Saturday                 192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               9 hrs 1 min         ████████████████░░░░░░░░░   64.57 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-
-🔥 Editors: 
-WebStorm                 11 hrs 42 mins      █████████████████████░░░░   83.78 % 
-PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-VS Code                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-
-💻 Operating System: 
-Linux                    13 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   32.91 % 
-Java                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ken-kuro/ken-kuro/main/assets/bar_graph.png)
-
-
- Last Updated on 14/04/2024 23:00:03 UTC
-<!--END_SECTION:waka-->
-
-![Kuro's DevCard](https://github.com/ken-kuro/ken-kuro/blob/main/devcard.svg)
+<!-- Github Streak-->
+<a href="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte">
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat" />
+</picture>
+</a>
 
 <!--
 **ken-kuro/ken-kuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
