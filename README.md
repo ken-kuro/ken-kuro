@@ -1,31 +1,56 @@
 <!-- TODO: Convert this to svg -->
+
 # Hi there 👋, I'm [Kendrick](https://www.facebook.com/kuro.oct26/), aka [ken-kuro](https://github.com/ken-kuro)
+
 <!-- TODO: Consider hosting this -->
-|You are|<img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img>|
-| --- | :---: |
+
+| You are | <img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img> |
+|---------|:------------------------------------------------------------------------------------------:|
 
 <!-- TODO: Add snake action for this -->
 ---
+
 ## 👨‍💻 About me:
 
 - 🗣️ My full name is ***Ha Minh Hieu***, but you can call me ~~tonight~~ ***Kendrick*** 🐧
 - 🎂 I was born on ***October 26, 2000*** so yea, I'm a ♏ with a mischievous side 😈
-- 🎓 I've proudly earned my ***Bachelor of Science (BSc)*** in ***Information Technology (IT)*** at [Academy of Cryptography Techniques](http://actvn.edu.vn/) as [valedictorian](https://vnexpress.net/tro-thanh-thu-khoa-ky-thuat-mat-ma-sau-mot-nam-song-mong-lung-4665201.html)
-- 💼 I'm currently working at an EdTech startup called [Vuihoc](https://vuihoc.vn/), and get this, its original name was Hung Vuong (meaning Hung King). Turns out the CEO and COO are from my hometown, what a coincidence 😮
-- 🌱 My interests lie at the intersection of ***Software Engineering***, ***Deep Learning*** and ***Cloud Computing***. I'm also a passionate Linux enthusiast (***I use Arch btw, fyi*** 😏), and that's the reason why my journey of contributing to the open-source community (OSS) began ~~because it is buggy and annoying me due to my OCD~~
-  
+- 🎓 I've proudly earned my ***Bachelor of Science (BSc)*** in ***Information Technology (IT)***
+  at [Academy of Cryptography Techniques](http://actvn.edu.vn/)
+  as [valedictorian](https://vnexpress.net/tro-thanh-thu-khoa-ky-thuat-mat-ma-sau-mot-nam-song-mong-lung-4665201.html)
+- 💼 I'm currently working at an EdTech startup called [Vuihoc](https://vuihoc.vn/), and get this, its original name was
+  Hung Vuong (meaning Hung King). Turns out the CEO and COO are from my hometown, what a coincidence 😮
+- 🌱 My interests lie at the intersection of ***Software Engineering***, ***Deep Learning*** and ***Cloud Computing***.
+  I'm also a passionate Linux enthusiast (***I use Arch btw, fyi*** 😏), and that's the reason why my journey of
+  contributing to the open-source community (OSS) began ~~because it is buggy and annoying me due to my OCD~~
+
 - 🤡 Some fun fact:
-    - When it comes to gaming, I'm a diehard ***League of Legends*** player and a proud ***Yasuo main***. You know what his main motto is: ***I alone decide my fate***, my teammates are either in awe of my flashy outplays or constantly face-palming as I dive into 1v5 situations. But hey, that's just how use ***Yasuo mains*** roll ⚔️
-    - ***Origami***, ***gunpla*** and ***DIY Craft*** are my go-to creative outlets ✴️. My very first gunpla was the stunning [***MG Astray Red Frame Kai***](https://gundamshop.vn/product/mg-gundam-astray-red-frame-kai/), and my favorite origami is majestic [***Bahamut***](https://www.folders.jp/g/1997/9705.html) by the renowed ***Satoshi Kamiya***
-    - I'm some kind of a ***weeboo*** myself 🥴, with shows like ***Evangelion***, ***HxH*** and ***JJK*** among my favorites. I also have a fondness for ***sci-fi movies***, such as ***Dune***, ***Interstellar*** and ***Limitless***
-    - Music is a passion of mine, and my ***eclectic tastes*** span across genres and languages. I'm always on the hunt for new tunes that ***resonate well*** with me, regardless of their popularity. In fact, I have a bit of habit on ***turning my back*** on song that ***become too "mainstream"***. I like to keep some of my musical discoveries to ***myself*** 🎶. 
+    - When it comes to gaming, I'm a diehard ***League of Legends*** player and a proud ***Yasuo main***. You know what
+      his main motto is: ***I alone decide my fate***, my teammates are either in awe of my flashy outplays or
+      constantly face-palming as I dive into 1v5 situations. But hey, that's just how use ***Yasuo mains*** roll ⚔️
+    - ***Origami***, ***gunpla*** and ***DIY Craft*** are my go-to creative outlets ✴️. My very first gunpla was the
+      stunning [***MG Astray Red Frame Kai***](https://gundamshop.vn/product/mg-gundam-astray-red-frame-kai/), and my
+      favorite origami is majestic [***Bahamut***](https://www.folders.jp/g/1997/9705.html) by the renowed
+      ***Satoshi Kamiya***
+    - I'm some kind of a ***weeboo*** myself 🥴, with shows like ***Evangelion***, ***HxH*** and ***JJK*** among my
+      favorites. I also have a fondness for ***sci-fi movies***, such as ***Dune***, ***Interstellar*** and
+      ***Limitless***
+    - Music is a passion of mine, and my ***eclectic tastes*** span across genres and languages. I'm always on the hunt
+      for new tunes that ***resonate well*** with me, regardless of their popularity. In fact, I have a bit of habit on
+      ***turning my back*** on song that ***become too "mainstream"***. I like to keep some of my musical discoveries to
+      ***myself*** 🎶.
       <details>
         <summary>🎁 for you</summary>
-        
-        I know, I know, it's a bit selfish. So just for this time, take a drag of [this](https://youtu.be/dQw4w9WgXcQ?feature=shared) [🚬](https://youtu.be/y7I8Moj2Ucc?feature=shared). I do not smoke in real life, but I sure do love throwing some musical "smoke" grenades to obscure your vision 😉 ~~Sometimes, they might even be my own "flashes" (you know, as a ***Yoru*** main and all)~~ 
+
+      I know, I know, it's a bit selfish. So just for this time, take a drag
+      of [this](https://youtu.be/dQw4w9WgXcQ?feature=shared) [🚬](https://youtu.be/y7I8Moj2Ucc?feature=shared). I do not
+      smoke in real life, but I sure do love throwing some musical "smoke" grenades to obscure your vision 😉 ~~
+      Sometimes, they might even be my own "flashes" (you know, as a ***Yoru*** main and all)~~
       </details>
+
 ---
+
 ## 🥞 My "pancakes" stack:
+
 <details>
   <summary>Credit</summary>
   All badges generated using the amazing https://github.com/badges/shields
@@ -82,7 +107,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 ### IDEs/Editors and Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -100,11 +124,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ## ⏳ Recent activities:
+
 <!-- TODO: Add action for this -->
 
 ---
+
 ## 🔥 My stats:
+
 <details>
   <summary>Credit</summary>
   Stats is generated using the wonderful https://github.com/anuraghazra/github-readme-stats and https://github.com/DenverCoder1/github-readme-streak-stats
@@ -112,62 +140,62 @@
 </details>
 <!-- Github Stats -->
 <a href="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</picture>
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ken-kuro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    </picture>
 </a>
 
 <!-- Wakatime Stats -->
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent" />
-</picture>
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_mocha"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent&theme=catppuccin_latte"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenkuro26&layout=compact&langs_count=15&display_format=percent" />
+    </picture>
 </a>
 
 <!-- Github Top Language -->
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut" />
-</picture>
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_mocha"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut&theme=catppuccin_latte"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kuro&layout=donut" />
+    </picture>
 </a>
 
 <!-- Github Streak-->
 <a href="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte">
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat" />
-</picture>
+    <picture>
+        <source
+        srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-mocha"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat&theme=catppuccin-latte"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=200 align="center" src="https://streak-stats.demolab.com?user=ken-kuro&exclude_days=Sun%2CSat" />
+    </picture>
 </a>
 
 <!--
