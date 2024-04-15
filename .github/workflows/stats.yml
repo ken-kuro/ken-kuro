@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@0.6.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
