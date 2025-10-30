@@ -4,7 +4,7 @@
 
 <!-- TODO: Consider hosting this -->
 
-| You are | <img src="https://profile-counter.glitch.me/ken-kuro/count.svg" alt="Visitor Count"></img> |
+| You are | <img src="profile-counter.deno.dev/ken-kuro/count.svg" alt="Visitor Count"></img> |
 |---------|:------------------------------------------------------------------------------------------:|
 
 ---
